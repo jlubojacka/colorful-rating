@@ -29,7 +29,7 @@ Basic usage:
 ```vue
 <ColorfulRating v-model="ratingValue"></ColorfulRating>
 ```
-Visit [Colorful Rating's GitHub pages](jlubojacka.github.io/colorful-rating/) for live demo. 
+Visit [Colorful Rating's GitHub pages](https://jlubojacka.github.io/colorful-rating/) for live demo. 
 For each example there is a modal window with source code.
 
 **Component properties**
