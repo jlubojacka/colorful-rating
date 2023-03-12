@@ -1,0 +1,1 @@
+import{_ as l}from"./ColorfulRating.c253f08f.js";import{r,o as t,b as m}from"./index.950a2575.js";const _={__name:"SimpleStar",setup(n){const e=r(2);return(s,a)=>(t(),m(l,{modelValue:e.value,"onUpdate:modelValue":a[0]||(a[0]=o=>e.value=o)},null,8,["modelValue"]))}};export{_ as default};

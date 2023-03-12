@@ -13,6 +13,8 @@ export default defineConfig({
     }
   },
   build: {
-    chunkSizeWarningLimit: 1600
-  }
+    chunkSizeWarningLimit: 1600,
+    outDir: "docs" /* change output build directory - for GitHub pages*/
+  },
+  base: "./"
 })

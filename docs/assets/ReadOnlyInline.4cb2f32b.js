@@ -1,0 +1,1 @@
+import{_ as a}from"./ColorfulRating.c253f08f.js";import{_ as n,o as _,c as s,A as e,d as t}from"./index.950a2575.js";const o={__name:"ReadOnlyInline",setup(c){return(l,r)=>(_(),s("p",null,[e(" Your rating "),t(a,{"model-value":5,readonly:"",class:"inline-rating"}),e(" was saved. ")]))}},p=n(o,[["__scopeId","data-v-571c4603"]]);export{p as default};
