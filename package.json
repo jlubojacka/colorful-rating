@@ -1,0 +1,33 @@
+{
+  "name": "colorful-rating-vue3",
+  "version": "0.0.1",
+  "author": "Jana Lubojacká",
+  "description": "Flexible and easy-to-use rating component for Vue.js",
+  "keywords": [
+    "rate",
+    "vue.js",
+    "star rating",
+    "rating-component"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
+    "@vitejs/plugin-vue": "^3.1.2",
+    "@vueuse/core": "^9.4.0",
+    "@vueuse/integrations": "^9.4.0",
+    "focus-trap": "^7.0.0",
+    "vite": "^3.1.8",
+    "vite-svg-loader": "^3.6.0",
+    "vue3-highlightjs": "^1.0.5"
+  },
+  "license": "MIT"
+}
