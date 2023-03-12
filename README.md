@@ -55,7 +55,7 @@ For each example there is a modal window with source code.
 * --rate-description-color
 
 With special [deep selector](https://vuejs.org/api/sfc-css-features.html#deep-selectors) you can affect children inside ColorfulRating component in your styles.
-See [Rating with custom description style](jlubojacka.github.io/colorful-rating/#description-style) example.
+See [Rating with custom description style](https://jlubojacka.github.io/colorful-rating/#description-style) example.
 
 **Slot props**
 
@@ -68,7 +68,7 @@ More info about slot props can be found on [Vue website](https://vuejs.org/guide
   </template>
 </ColorfulRating>
 ```
-See [Rating with slot props usage](jlubojacka.github.io/colorful-rating/#numerical-rating) example.
+See [Rating with slot props usage](https://jlubojacka.github.io/colorful-rating/#numerical-rating) example.
 
 ### License
 
